@@ -1,0 +1,96 @@
+body {
+  font-family: 'Rubik', sans-serif !important;
+}
+
+#title {
+  background-color: #EEF1FF;
+  width: 100%;
+  height: 680px;
+}
+
+img {
+  height: 70px;
+  width: 150px;
+  margin-left: 15px;
+}
+
+.picture {
+  height: 680px;
+  width: 100%;
+}
+
+.title {
+  line-height: 3.5;
+}
+
+.box {
+  width: 80%;
+  margin-left: 115px;
+}
+
+.navbar {
+  margin-bottom: 6.25rem;
+}
+
+.button {
+  font-size: 25px;
+  border-radius: 5px;
+  width: 220px;
+  height: 65px;
+  color: white;
+  margin-top: 30px;
+}
+
+.button:hover {
+  background-color: grey;
+}
+
+p {
+  color: grey;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+h1 {
+  line-height: 1rem;
+  font-weight: 900;
+}
+
+#comments {
+  padding: 50px;
+}
+
+.pricing-column {
+  padding: 1%;
+}
+
+.card-title {
+  font-size: 0.87rem;
+  margin-left: 10px;
+  margin-top: 35px;
+}
+
+.card-text {
+  font-size: 0.87rem;
+  margin-left: 10px;
+}
+
+.text {
+  font-size: 0.67rem;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+
+.footer {
+  background-color: #EEF1FF;
+  width: 100%;
+  height: 100px;
+  margin-top: 30px;
+}
+
+.ending {
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 35px;
+  color: black;
+}
